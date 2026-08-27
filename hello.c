@@ -15,4 +15,7 @@
     printf("Shane Kindred!\n");
     printf("Computer Science!\n");
 
+   printf("Carson Beavers\n");
+   printf("Computer Engineering\n");
+
  }
